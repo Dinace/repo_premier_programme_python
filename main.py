@@ -29,8 +29,8 @@ Cet exercice consiste à trouver le prochain nombre
 A partir d'un nombre arbotrairement choisi
 """
 
-# nbre_initiale = input("Quel est le premier nombre ? ")
-# prochain_nbre = int(nbre_initiale) + 1
+nbre_initiale = input("Quel est le premier nombre ? ")
+prochain_nbre = int(nbre_initiale) + 1
 
-# print(f"La lettre que vous aavez choisie est : {nbre_initiale} La lettre suivante sera :   {prochain_nbre}")
+print(f"La lettre que vous aavez choisie est : {nbre_initiale} La lettre suivante sera :   {prochain_nbre}")
 
